@@ -1,0 +1,141 @@
+.glass-container {
+  margin: auto;
+  margin-top: -51px;
+  background: rgba(197, 39, 39, 0.3);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 12px;
+  padding: 20px;
+  width: 459px;
+  height: 396px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.parallax {
+  position: absolute;
+  background-size: cover;
+  background-position: center;
+  transition: transform 0.5s ease-out;
+}
+
+#parallax1 {
+  background-image: url('background.png');
+  z-index: 1;
+  width: 280px;
+  height: 200px;
+  margin-top: 40px;
+  margin-left: 300px;
+}
+
+/* #parallax2 {
+  background-image: url('picture_para2.png');
+  z-index: 2;
+  width: 200px;
+  height: 200px;
+  margin-top: -130px;
+  margin-left: 450px;
+  filter: drop-shadow(rgb(165, 161, 161) 1px 0px 4px);
+}
+
+#parallax4 {
+  background-image: url('picture_para2.png');
+  z-index: -1;
+  width: 200px;
+  height: 200px;
+  margin-top: -390px;
+  margin-left: 850px;
+  filter: drop-shadow(rgb(165, 161, 161) 1px 0px 4px);
+} */
+
+/* Add more styles for additional parallax elements as needed */
+
+#b_category_1 {
+  background-image: url('../../assets/img/b-1.png');
+  z-index: 2;
+  width: 60px;
+  height: 60px;
+  margin-top: -466px;
+  margin-left: 72px;
+  filter: drop-shadow(rgb(165, 161, 161) 1px 0px 4px);
+}
+
+#b_category_2 {
+  background-image: url('../../assets/img/b-2.png');
+  z-index: 2;
+  width: 60px;
+  height: 60px;
+  margin-top: -419px;
+  margin-left: 152px;
+  filter: drop-shadow(rgb(165, 161, 161) 1px 0px 4px);
+}
+
+#b_category_3 {
+  background-image: url('../../assets/img/b-3.png');
+  z-index: 2;
+  width: 62px;
+  height: 39px;
+  margin-top: -384px;
+  margin-left: 22px;
+  filter: drop-shadow(rgb(165, 161, 161) 1px 0px 4px);
+}
+
+#b_category_4 {
+  background-image: url('../../assets/img/b-4.png');
+  z-index: 2;
+  width: 60px;
+  height: 64px;
+  margin-top: -312px;
+  margin-left: 33px;
+  filter: drop-shadow(rgb(165, 161, 161) 1px 0px 4px);
+}
+
+#b_category_5 {
+  background-image: url('../../assets/img/b-5.png');
+  z-index: 2;
+  width: 52px;
+  height: 55px;
+  margin-top: -468px;
+  margin-left: -18px;
+  filter: drop-shadow(rgb(165, 161, 161) 1px 0px 4px);
+}
+
+#b_category_6 {
+  background-image: url('../../assets/img/b-1.png');
+  z-index: 2;
+  width: 52px;
+  height: 55px;
+  margin-top: -365px;
+  margin-left: 116px;
+  filter: drop-shadow(rgb(165, 161, 161) 1px 0px 4px);
+}
+
+#b_category_7 {
+  background-image: url('../../assets/img/b-4.png');
+  z-index: 2;
+  width: 52px;
+  height: 55px;
+  margin-top: -275px;
+  margin-left: 116px;
+  filter: drop-shadow(rgb(165, 161, 161) 1px 0px 4px);
+}
+
+#dog {
+  background-image: url('../../assets/img/dog.png');
+  z-index: 2;
+  width: 300px;
+  height: 400px;
+  margin-top: -320px;
+  margin-left: 207px;
+  filter: drop-shadow(rgb(165, 161, 161) 1px 0px 4px);
+}
+
+#plate {
+  background-image: url('plate.png');
+  z-index: 1;
+  width: 100px;
+  height: 110px;
+  margin-top: -110px;
+  margin-left: 680px;
+  filter: drop-shadow(rgb(165, 161, 161) 1px 0px 4px);
+}
+
